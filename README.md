@@ -199,17 +199,17 @@ The first version of the app contained repetitive block structures for each work
 <!-- FINAL OUTCOME -->
 
 ## **Final Outcome**
-UI is simple, clear, and structured.  
-Timers and Text-To-Speech are synchronized for a seamless workout experience.  
-No more overlapping timers or negative countdown issues.  
-The app is fully compatible with both Android and iOS.  
+- UI is simple, clear, and structured.  
+- Timers and Text-To-Speech are synchronized for a seamless workout experience.  
+- No more overlapping timers or negative countdown issues.  
+- The app is fully compatible with both Android and iOS.  
 
 <!-- FUTURE ENHANCEMENTS -->
 
 ## **Future Enhancements**
-Add a progress tracking feature to log completed workouts.  
-Allow users to set custom workout durations based on personal preferences.  
-Introduce a Dark Mode UI for better accessibility.  
+- Add a progress tracking feature to log completed workouts.  
+- Allow users to set custom workout durations based on personal - preferences.  
+- Introduce a Dark Mode UI for better accessibility.  
  
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 

@@ -22,7 +22,6 @@ This project was developed with the goal of creating a simple yet effective fitn
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
 <!-- KEY FEATURES -->
 
 ## Key Features

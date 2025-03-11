@@ -81,8 +81,10 @@ Each category has a dedicated screen where users can view the exercise details a
 - Shows a completion message at the end of the workout.
 
 <img src="assets/workout.jpg" alt="Core Burn Exercise Screen" width="500">
+
 ---
 <img src="assets/workout-2.jpg" alt="Weight Loss Exercise Screen" width="500">
+
 ---
 <img src="assets/workout-3.jpg" alt="Weight Gain Exercise Screen" width="500">
 

@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
    <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/mit-logo.png" alt="Logo" width="180">
+    <img src="assets/logo.png" alt="Logo" width="180">
   </a><h3>Fitness Exercise App</h3> <p> A simple fitness exercise app built using MIT App Inventor. </p> </div>
 
 <!-- ABOUT THE PROJECT -->

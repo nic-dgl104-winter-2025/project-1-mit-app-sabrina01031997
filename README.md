@@ -158,47 +158,58 @@ This block controls the **Core Burn workout timer**, ensuring that:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- DEVELOPMENT PROCESS -->
 
 ## **Development Process**
 ### **Challenges & Solutions**
-1. **Ensuring UI Simplicity & Readability**  
-   - Used Vertical Arrangements for a structured layout.
-   - Ensured buttons and text were large and readable.
+### **1️⃣ Ensuring UI Simplicity & Readability**
+Initially, the UI lacked proper structure, making navigation confusing.  
+**Solution:**  
+- Used Vertical Arrangements to group related components, ensuring a clean layout.  
+- Ensured buttons were large, visible, and color-coded for quick identification.  
+- Used consistent font sizes to maintain readability across different screen sizes.  
 
-2. **Synchronizing Timer & Text-To-Speech**  
-   - Initially, Text-To-Speech finished before the timer.
-   - Solution: Adjusted timing logic to ensure proper synchronization.
+### **2️⃣ Synchronizing Timer & Text-To-Speech**
+Initially, the Text-To-Speech component finished speaking before the countdown timer reached zero.  
+**Solution:**  
+- Adjusted timing logic so that the speech aligned with exercise durations.  
+- Implemented a 3-second countdown warning before transitioning to the next exercise.  
+- Used Text-To-Speech prompts at key moments (start, mid, and end of an exercise) for better guidance.  
 
-3. **Debugging Issues with Clock Component**  
-   - Faced bugs where timers overlapped.
-   - Fixed by handling each timer separately.
+### **3️⃣ Debugging Issues with Clock Component**
+Encountered issues where timers overlapped, causing countdown inconsistencies.  
+**Solution:**  
+- Ensured only one clock timer runs at a time by disabling all others before starting a new exercise.  
+- Used conditional checks to prevent negative countdown values.  
+- Implemented reset logic so each timer restarts correctly at the beginning of a new workout.  
 
-<!-- PLANNED FUTURE ENHANCEMENT -->
+### **4️⃣ Fixing iOS Compatibility Issues (GIF Images)**
+Initially, the app used GIF images for workout demonstrations, but iOS does not support GIF playback in MIT App Inventor.  
+**Solution:**  
+- Replaced GIFs with static images, ensuring compatibility across both Android and iOS.  
+- Improved performance by reducing image file sizes, leading to a smoother user experience.  
 
-### **Planned Future Enhancements**
-- **Workout Progress Tracking** – Store exercise completion counts in TinyDB.
-- **Custom Workout Durations** – Allow users to set their own workout durations.
-- **More Exercise Categories** – Expand beyond the three main categories.
+### **5️⃣ Improving Code Efficiency (Reducing Repetitive Blocks)**
+The first version of the app contained repetitive block structures for each workout timer.  
+**Solution:**  
+- Used procedures (custom functions) to eliminate duplicate code.  
+- Implemented a universal timer function that handles any exercise category dynamically.  
+- This change reduced block clutter and made debugging much easier.  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### **Final Outcome**
+UI is simple, clear, and structured.  
+Timers and Text-To-Speech are synchronized for a seamless workout experience.  
+No more overlapping timers or negative countdown issues.  
+The app is fully compatible with both Android and iOS.  
 
-<!-- CODE REVIEW AND IMPROVEMENTS -->
+### **Future Enhancements**
+Add a progress tracking feature to log completed workouts.  
+Allow users to set custom workout durations based on personal preferences.  
+Introduce a Dark Mode UI for better accessibility.  
+ 
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
-## **Code Review & Improvements**
-1. **Refactoring & DRY Principles**  
-   - Removed duplicate code for exercise selection.
-   - Used procedures and variables for cleaner logic.
-
-2. **UI Improvements**  
-   - Optimized button placements and screen transitions.
-
-3. **Bug Fixes & Error Handling**  
-   - Fixed countdown timer bugs.
-   - Resolved UI visibility issues for smooth navigation.
-
-<!-- GITHUB REPOSITORY -->
+<!-- ACKNOWLEDGMENTS -->
 
 ## **Acknowledgments**
 This project was inspired by fitness training principles and uses MIT App Inventor features for a seamless workout experience.

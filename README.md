@@ -51,5 +51,41 @@ Each category has a dedicated screen where users can view the exercise details a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- APP SCREEN AND UI DESIGN -->
+
+## App Screens and UI Design
+
+### **1️⃣ Home Screen**
+- Serves as the **main navigation hub**.
+- Users can **select a workout category**.
+- Features **a clean and structured layout**.
+
+
+<img src="assets/home.jpg" alt="Home Screen">
+
+
+
+### 2️⃣ Exercise Category Screen
+- Users choose between Core Burner, Weight Loss, or Weight Gain exercises.
+- Large, easy-to-press category buttons.
+- Displays preview images of exercises.
+
+#### **Screenshot:**
+
+
+
+
+### 3️⃣ Workout Screens
+- Displays selected exercises.
+- Features step-by-step image guidance.
+- Provides audio instructions via Text-To-Speech.
+- Runs a 30-second countdown timer.
+- Shows a completion message at the end of the workout.
+
+#### **Screenshot:**
+
+
+
+
 
 

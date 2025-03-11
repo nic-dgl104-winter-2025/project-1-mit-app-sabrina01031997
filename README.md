@@ -120,7 +120,6 @@ This MIT App Inventor block code ensures that users can select an exercise and n
 
 #### **Code Block Screenshot:**
 <img src="assets/Screenshot-1.png" alt="Home Screen" width="500">
----
 
 ### **2️⃣ Core Burn Exercise Timer & Completion Logic**
 This block controls the **Core Burn workout timer**, ensuring that:
@@ -177,9 +176,9 @@ This block controls the **Core Burn workout timer**, ensuring that:
 <!-- PLANNED FUTURE ENHANCEMENT -->
 
 ### **Planned Future Enhancements**
-- **Workout Progress Tracking** – Store exercise completion counts in **TinyDB**.
-- **Custom Workout Durations** – Allow users to **set their own workout durations**.
-- **More Exercise Categories** – Expand beyond the **three main categories**.
+- **Workout Progress Tracking** – Store exercise completion counts in TinyDB.
+- **Custom Workout Durations** – Allow users to set their own workout durations.
+- **More Exercise Categories** – Expand beyond the three main categories.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,7 +199,7 @@ This block controls the **Core Burn workout timer**, ensuring that:
 <!-- GITHUB REPOSITORY -->
 
 ## **Acknowledgments**
-This project was inspired by fitness training principles and uses MIT App Inventor features for a **seamless workout experience**.
+This project was inspired by fitness training principles and uses MIT App Inventor features for a seamless workout experience.
 
 - **[MIT App Inventor](https://appinventor.mit.edu/)** - The primary tool for developing the app.
 - **[Text-to-Speech API](https://cloud.google.com/text-to-speech/)** - Used for voice-guided workouts.

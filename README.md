@@ -1,3 +1,5 @@
+<div id="readme-top"></div>
+
 # MIT App Inventor Project
 
 <!--

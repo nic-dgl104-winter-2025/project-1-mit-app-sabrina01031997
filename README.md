@@ -136,7 +136,7 @@ This block controls the **Core Burn workout timer**, ensuring that:
 #### **Code Block Screenshot:**
 <img src="assets/Screenshot-2.png" alt="Home Screen" width="500">
 
-### **3️⃣ weight Loss Exercise Timer & Completion Logic**
+### **3️⃣ Weight Loss Exercise Timer & Completion Logic**
 - The exercise starts when selected.
 - Announces progress via voice prompts.
 - A completion message appears after the timer finishes.
@@ -146,7 +146,7 @@ This block controls the **Core Burn workout timer**, ensuring that:
 #### **Code Block Screenshot:**
 <img src="assets/Screenshot-3.png" alt="Home Screen" width="500">
 
-### **4️⃣ weight gain Exercise Timer & Completion Logic**
+### **4️⃣ Weight Gain Exercise Timer & Completion Logic**
 - Users can start the Weight Gain workout.
 - The countdown begins as soon as the workout starts.
 - Text-To-Speech guidance is given for the duration of the workout.

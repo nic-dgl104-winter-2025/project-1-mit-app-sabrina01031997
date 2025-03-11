@@ -64,7 +64,6 @@ Each category has a dedicated screen where users can view the exercise details a
 
 <img src="assets/home.jpg" alt="Home Screen" width="500">
 
----
 ### 2️⃣ Exercise Category Screen
 - Users choose between Core Burner, Weight Loss, or Weight Gain exercises.
 - Large, easy-to-press category buttons.
@@ -72,7 +71,6 @@ Each category has a dedicated screen where users can view the exercise details a
 
 <img src="assets/categories.jpg" alt="Home Screen" width="500">
 
----
 ### 3️⃣ Workout Screens
 - Displays selected exercises.
 - Features step-by-step image guidance.
@@ -82,10 +80,8 @@ Each category has a dedicated screen where users can view the exercise details a
 
 <img src="assets/workout.jpg" alt="Core Burn Exercise Screen" width="500">
 
----
 <img src="assets/workout-2.jpg" alt="Weight Loss Exercise Screen" width="500">
 
----
 <img src="assets/workout-3.jpg" alt="Weight Gain Exercise Screen" width="500">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

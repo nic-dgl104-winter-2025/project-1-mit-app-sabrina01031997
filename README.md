@@ -56,13 +56,11 @@ Each category has a dedicated screen where users can view the exercise details a
 ## App Screens and UI Design
 
 ### **1️⃣ Home Screen**
-- Serves as the **main navigation hub**.
-- Users can **select a workout category**.
-- Features **a clean and structured layout**.
+- Serves as the main navigation hub.
+- Users can select a workout category.
+- Features a clean and structured layout.
 
-
-<img src="assets/home.jpg" alt="Home Screen">
-
+<img src="assets/home.jpg" alt="Home Screen" width="500">
 
 
 ### 2️⃣ Exercise Category Screen
@@ -70,9 +68,7 @@ Each category has a dedicated screen where users can view the exercise details a
 - Large, easy-to-press category buttons.
 - Displays preview images of exercises.
 
-#### **Screenshot:**
-
-
+<img src="assets/categories.jpg" alt="Home Screen" width="500">
 
 
 ### 3️⃣ Workout Screens
@@ -82,9 +78,7 @@ Each category has a dedicated screen where users can view the exercise details a
 - Runs a 30-second countdown timer.
 - Shows a completion message at the end of the workout.
 
-#### **Screenshot:**
-
-
+<img src="assets/workout.jpg" alt="Home Screen" width="500">
 
 
 
